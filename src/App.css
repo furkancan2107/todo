@@ -1,0 +1,60 @@
+.form{
+  
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  border: solid white;
+  border-radius: 25px;
+  
+}
+.task{
+  width: 450px;
+  
+}
+.App{
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+}
+.form .Baslik{
+ padding: 10px 0px;
+}
+.form .InputStyle{
+      padding: 10px;
+        border: solid white;
+        border-radius: 6px
+}
+.form .TaskButton{
+      margin: 10px 0px;
+      font-size: 20px;
+}
+.task-list{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+}
+.Bilgiler{
+  text-align: center;
+  width: 350px;
+  border: solid white;
+  border-radius:25px ;
+  margin: 20px;
+  padding: 0px 25px;
+}
+.Bilgiler .title{
+  margin-bottom: 1px;
+}
+.editForm{
+      display: flex;
+        flex-direction: column;
+}
+.editInput{
+      margin: 8px 4px;
+      width: 90%;
+}
+
+.butons{
+  margin: 10px 10%;
+  border: solid white;
+  border-radius: 10px;
+}
