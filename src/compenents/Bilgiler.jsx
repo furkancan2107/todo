@@ -49,8 +49,6 @@ const Bilgiler = ({ bilgi,silme,duzenlenenIcerik}) => {
             <button onClick={duzenle} className='butons'>Düzenle</button>
             </>
             }
-            
-         
         </div>
         
         
